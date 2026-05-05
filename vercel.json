@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "http://proxy.cloudjf.com.br/$1"
+      "destination": "https://163.176.239.220:443/$1"
     }
   ]
 }
